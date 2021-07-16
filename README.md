@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krystalwhite
 - 👀 I’m interested in learning how to code in JavaScript and Java.
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Java 
 
 <!---
 krystalwhite/krystalwhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
