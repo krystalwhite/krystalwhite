@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @krystalwhite
-- 👀 I’m a recent CoderGirl graduate who focused her studies on JavaScript and Java. 
-- 🌱 I’m currently deepening my understanding of Java. 
-
-<!---
-krystalwhite/krystalwhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I’m Krystal Sno White. I specialize in Java and JavaScript.
+- 👀 I’m a recent CoderGirl graduate and, in my day job, I'm a middle school math educator.
+- 🌱 I’m currently co-developing a RoadTrip Runner app, which heavily features the Google Maps API. 
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/krystal-white-518239227/  E-mail: krystalsnowhite@gmail.com
